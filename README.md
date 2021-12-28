@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Test task
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A component that counts and display a quantity of render method callings
 
 ## Available Scripts
 
